@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/menu">
+        <file>choose.png</file>
+        <file>color.png</file>
+        <file>save.png</file>
+        <file>function.png</file>
+        <file>file_Load.png</file>
+    </qresource>
+</RCC>
